@@ -1,0 +1,9 @@
+{
+    "Name": "Chess (King-Rook vs. King-Pawn)",
+    "Data Types": "Multivariate ",
+    "Default Task": "Classification ",
+    "Attribute Types": "Categorical ",
+    "# Instances": "3196 ",
+    "# Attributes": "36 ",
+    "Year": "1989 "
+}
