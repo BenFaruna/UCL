@@ -4,12 +4,6 @@ from bs4 import BeautifulSoup
 from itertools import cycle
 from json import JSONEncoder
 
-
-class Encoder(JSONEncoder):
-    def default(self, o):
-        return o.__dict__
-
-
 url = 'http://mlr.cs.umass.edu/ml/datasets.html'
 response = requests.get(url)
 content = response.content
@@ -48,11 +42,11 @@ results = list(zip(cycle(names), values))
 result = []
 dictionary = {}
 for n, v in results:
-    if len(instance.items()) < len(names):
-        instance[n] = v
+    if len(dictionary.items()) < len(names):
+        dictionary[n] = v
 
-    if len(instance.items()) == len(names):
-        result.append(instance)
+    if len(dictionary.items()) == len(names):
+        result.append(dictionary)
         dictionary = {}
 
 
