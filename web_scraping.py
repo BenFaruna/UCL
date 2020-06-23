@@ -43,7 +43,18 @@ for td in td_tag:
     values.append(td.text)
 # print(values)
 
-result = (dict(zip(cycle(names), values)))
+results = list(zip(cycle(names), values))
+
+result = []
+dictionary = {}
+for n, v in results:
+    if len(instance.items()) < len(names):
+        instance[n] = v
+
+    if len(instance.items()) == len(names):
+        result.append(instance)
+        dictionary = {}
+
 
 with open('web_datasets.json', 'w', encoding='windows-1252') as f:
     json.dump(result, f, ensure_ascii=False, indent=4)
