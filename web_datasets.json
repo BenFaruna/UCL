@@ -1,200 +1,200 @@
 [
     {
         "Name": "Abalone",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer, Real ",
-        "# Instances": "4177 ",
-        "# Attributes": "8 ",
-        "Year": "1995 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "4177",
+        "# Attributes": "8",
+        "Year": "1995"
     },
     {
         "Name": "Adult",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer ",
-        "# Instances": "48842 ",
-        "# Attributes": "14 ",
-        "Year": "1996 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "48842",
+        "# Attributes": "14",
+        "Year": "1996"
     },
     {
         "Name": "Annealing",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer, Real ",
-        "# Instances": "798 ",
-        "# Attributes": "38 ",
-        "Year": " "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "798",
+        "# Attributes": "38",
+        "Year": ""
     },
     {
         "Name": "Anonymous Microsoft Web Data",
-        "Data Types": " ",
-        "Default Task": "Recommender-Systems ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "37711 ",
-        "# Attributes": "294 ",
-        "Year": "1998 "
+        "Data Types": "",
+        "Default Task": "Recommender-Systems",
+        "Attribute Types": "Categorical",
+        "# Instances": "37711",
+        "# Attributes": "294",
+        "Year": "1998"
     },
     {
         "Name": "Arrhythmia",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer, Real ",
-        "# Instances": "452 ",
-        "# Attributes": "279 ",
-        "Year": "1998 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "452",
+        "# Attributes": "279",
+        "Year": "1998"
     },
     {
         "Name": "Artificial Characters",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer, Real ",
-        "# Instances": "6000 ",
-        "# Attributes": "7 ",
-        "Year": "1992 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "6000",
+        "# Attributes": "7",
+        "Year": "1992"
     },
     {
         "Name": "Audiology (Original)",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "226 ",
-        "# Attributes": " ",
-        "Year": "1987 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "226",
+        "# Attributes": "",
+        "Year": "1987"
     },
     {
         "Name": "Audiology (Standardized)",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "226 ",
-        "# Attributes": "69 ",
-        "Year": "1992 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "226",
+        "# Attributes": "69",
+        "Year": "1992"
     },
     {
         "Name": "Auto MPG",
-        "Data Types": "Multivariate ",
-        "Default Task": "Regression ",
-        "Attribute Types": "Categorical, Real ",
-        "# Instances": "398 ",
-        "# Attributes": "8 ",
-        "Year": "1993 "
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "398",
+        "# Attributes": "8",
+        "Year": "1993"
     },
     {
         "Name": "Automobile",
-        "Data Types": "Multivariate ",
-        "Default Task": "Regression ",
-        "Attribute Types": "Categorical, Integer, Real ",
-        "# Instances": "205 ",
-        "# Attributes": "26 ",
-        "Year": "1987 "
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "205",
+        "# Attributes": "26",
+        "Year": "1987"
     },
     {
         "Name": "Badges",
-        "Data Types": "Univariate, Text ",
-        "Default Task": "Classification ",
-        "Attribute Types": " ",
-        "# Instances": "294 ",
-        "# Attributes": "1 ",
-        "Year": "1994 "
+        "Data Types": "Univariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "294",
+        "# Attributes": "1",
+        "Year": "1994"
     },
     {
         "Name": "Balance Scale",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "625 ",
-        "# Attributes": "4 ",
-        "Year": "1994 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "625",
+        "# Attributes": "4",
+        "Year": "1994"
     },
     {
         "Name": "Balloons",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "16 ",
-        "# Attributes": "4 ",
-        "Year": " "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "16",
+        "# Attributes": "4",
+        "Year": ""
     },
     {
         "Name": "Breast Cancer",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "286 ",
-        "# Attributes": "9 ",
-        "Year": "1988 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "286",
+        "# Attributes": "9",
+        "Year": "1988"
     },
     {
         "Name": "Breast Cancer Wisconsin (Original)",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Integer ",
-        "# Instances": "699 ",
-        "# Attributes": "10 ",
-        "Year": "1992 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "699",
+        "# Attributes": "10",
+        "Year": "1992"
     },
     {
         "Name": "Breast Cancer Wisconsin (Prognostic)",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification, Regression ",
-        "Attribute Types": "Real ",
-        "# Instances": "198 ",
-        "# Attributes": "34 ",
-        "Year": "1995 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "198",
+        "# Attributes": "34",
+        "Year": "1995"
     },
     {
         "Name": "Breast Cancer Wisconsin (Diagnostic)",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Real ",
-        "# Instances": "569 ",
-        "# Attributes": "32 ",
-        "Year": "1995 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "569",
+        "# Attributes": "32",
+        "Year": "1995"
     },
     {
         "Name": "Pittsburgh Bridges",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer ",
-        "# Instances": "108 ",
-        "# Attributes": "13 ",
-        "Year": "1990 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "108",
+        "# Attributes": "13",
+        "Year": "1990"
     },
     {
         "Name": "Car Evaluation",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "1728 ",
-        "# Attributes": "6 ",
-        "Year": "1997 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "1728",
+        "# Attributes": "6",
+        "Year": "1997"
     },
     {
         "Name": "Census Income",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer ",
-        "# Instances": "48842 ",
-        "# Attributes": "14 ",
-        "Year": "1996 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "48842",
+        "# Attributes": "14",
+        "Year": "1996"
     },
     {
         "Name": "Chess (King-Rook vs. King-Knight)",
-        "Data Types": "Multivariate, Data-Generator ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical, Integer ",
-        "# Instances": " ",
-        "# Attributes": "22 ",
-        "Year": "1988 "
+        "Data Types": "Multivariate, Data-Generator",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "",
+        "# Attributes": "22",
+        "Year": "1988"
     },
     {
         "Name": "Chess (King-Rook vs. King-Pawn)",
-        "Data Types": "Multivariate ",
-        "Default Task": "Classification ",
-        "Attribute Types": "Categorical ",
-        "# Instances": "3196 ",
-        "# Attributes": "36 ",
-        "Year": "1989 "
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "3196",
+        "# Attributes": "36",
+        "Year": "1989"
     }
 ]

@@ -2,12 +2,11 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from itertools import cycle
-from json import JSONEncoder
 
-url = 'http://mlr.cs.umass.edu/ml/datasets.html'
-response = requests.get(url)
-content = response.content
-soup = BeautifulSoup(content, 'lxml')
+url = open("prettyhtml.html") #'http://mlr.cs.umass.edu/ml/datasets.html'
+#response = requests.get(url)
+#content = response.content
+soup = BeautifulSoup(url, 'lxml')
 
 # print(soup.title)
 # print(soup.title.get_text())
@@ -22,7 +21,7 @@ table = tables[0]
 names = []
 for td in table.find('tr').find_all('td'):
     # print(td.text)
-    names.append(td.text)
+    names.append(td.text.strip())
 # print(names)
 
 tables2 = soup.find_all('table', {'border': '1'})
@@ -34,7 +33,7 @@ td_tag = pretty_html.find_all('p', {'class', 'normal'})
 values = []
 for td in td_tag:
     # print(td)
-    values.append(td.text)
+    values.append(td.text.strip())
 # print(values)
 
 results = list(zip(cycle(names), values))
